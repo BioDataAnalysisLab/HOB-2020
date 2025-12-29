@@ -1,10 +1,6 @@
-Hands-on Biostatistics Workshop 2020
+Hands-on Biostatistics Workshop 2020: Topics in Biostatistics with applications in R
 
-Topics in Biostatistics with applications in R
-
-Online Workshop, July 17-18, 2020
-
-Organized at the University of Tirana, Department of Biology 
+Online Workshop, July 17-18, 2020; Organized at the University of Tirana, Department of Biology 
 
 
 About
