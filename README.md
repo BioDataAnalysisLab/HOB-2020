@@ -1,4 +1,4 @@
-1st Hands-on Biostatistics Workshop
+Hands-on Biostatistics Workshop 2020
 
 Topics in Biostatistics with applications in R
 
