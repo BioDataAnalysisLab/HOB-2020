@@ -10,18 +10,9 @@ The activity will start on July 17 at 4 pm CEST, with an introduction to biostat
 The second day is broken down into lectures and practical sessions and a group hands-on activity.
 
 Trainers: Dr. Eliana Ibrahimi, Lecturer and Researcher in Biostatistics,  University of Tirana, Albania
+
 Sofie Van Waes MD, Biostatistician, Dice Cro, Belgium
 
-Program
-Thursday, July 17 - 4:00 - 7:00 pm CET
-
-The first day of the workshop will cover topics on the: importance of studying Biostatistics; an introduction to R; data explorations; 
-Student t-test; ANOVA; Chi-Square test; and linear regression.
-
-Friday, July 18 - 4:00 - 7:00 pm CET
-
-The first part of the second day will discuss the hands-on project given to the participants on the first day.  
-The program will follow with the keynote lecture: " Biostatistics in clinical trials. by Sofie Van Waes. 
-
+Website: https://sites.google.com/fshn.edu.al/hob/events-training/hob-2020?authuser=1
 
                                                                                      					
